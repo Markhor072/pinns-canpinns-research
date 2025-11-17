@@ -34,7 +34,7 @@ This document presents comprehensive results comparing the baseline PINN and hyb
 
 ### Visualization
 
-![Test Case 2: sin(πx), ε=0.01](/imroved_results/improved_allen_cahn_tc2_eps0.01_icsin.png)
+![Test Case 2: sin(πx), ε=0.01](/improved_results/improved_allen_cahn_tc2_eps0.01_icsin.png)
 
 **Key Observations:**
 - ✅ Solutions are visually identical (difference < 0.004)
