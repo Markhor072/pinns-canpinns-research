@@ -33,7 +33,7 @@ See [RESULTS.md](RESULTS.md) for detailed results and visualizations.
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Noman-Nom/pinns-canpinns-research
    cd PINNS
    ```
 
