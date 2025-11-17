@@ -63,7 +63,7 @@ This document presents comprehensive results comparing the baseline PINN and hyb
 
 ### Visualization
 
-![Test Case 2: Step Function, ε=0.01](improved_allen_cahn_tc2_eps0.01_icstep.png)
+![Test Case 2: Step Function, ε=0.01](/improved_results/improved_allen_cahn_tc2_eps0.01_icstep.png)
 
 **Key Observations:**
 - ✅ Solutions match very well (difference < 0.02)
