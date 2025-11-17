@@ -121,7 +121,7 @@ This document presents comprehensive results comparing the baseline PINN and hyb
 
 ### Visualization
 
-![Test Case 3: sin(πx), ε=0.05](improved_allen_cahn_tc3_eps0.05_icsin.png)
+![Test Case 3: sin(πx), ε=0.05](/improved_results/improved_allen_cahn_tc3_eps0.05_icsin.png)
 
 **Key Observations:**
 - ✅ Solutions are visually identical
