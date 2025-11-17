@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Model checkpoints and weights
+*.pth
+*.pkl
+*.h5
+*.ckpt
+*.pt
+
+# Old/Intermediate result images (keep only improved_*.png)
+allen_cahn_tc*.png
+heat_equation_results.png
+quick_test_results.png
+training_history.png
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Environment
+.venv
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Data files (if large)
+*.csv
+*.hdf5
+*.mat
+
+# Documentation (intermediate/development notes - keep important ones)
+# Keep: README.md, SUPERVISOR_SUMMARY.md, PINN_DOCUMENTATION.md, RESULTS.md
+# Ignore: Intermediate analysis files
+BUGFIXES.md
+QUICK_FIXES.md
+STEP_FUNCTION_ANALYSIS.md
+TEST_CASE_3_ANALYSIS.md
+CUDA_WARNING_EXPLANATION.md
+SETUP_COMPLETE.md
+IMPLEMENTATION_COMPLETE.md
+
+# Test outputs
+test_outputs/
+*.test
+
