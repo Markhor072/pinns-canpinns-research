@@ -182,9 +182,9 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{hybrid_can_pinn,
   title = {Hybrid CAN-PINNs for Allen-Cahn Equation},
-  author = {Your Name},
+  author = {Shahid},
   year = {2024},
-  url = {https://github.com/yourusername/PINNS}
+  url = {https://github.com/Markhor072/pinns-canpinns-research}
 }
 ```
 
@@ -194,7 +194,7 @@ This project is for research purposes.
 
 ## 👥 Contributors
 
-- [Your Name] - Initial work and implementation
+- [Shahid] - Initial work and implementation
 
 ## 🙏 Acknowledgments
 
